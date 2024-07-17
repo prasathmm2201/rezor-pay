@@ -1,0 +1,18 @@
+{
+  "name": "rezorpay",
+  "version": "1.0.0",
+  "description": "1.install razorpay nodejs SDK 2.instantiate razorpay 3.integrate orders api 4.add checkout parameters 5.store fileds in server 6.verify sign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "razorpay": "^2.9.2"
+  }
+}
